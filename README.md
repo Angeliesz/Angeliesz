@@ -1,14 +1,14 @@
 <h1 align="center">
-  𝐻𝑖, 𝒽𝑒𝓁𝓁𝑜𝑜!! 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓅𝓇𝑜𝒻𝒾𝓁𝑒 ! ^^
-
+  𝐻𝑖, 𝒽𝑒𝓁𝓁𝑜𝑜!! 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓅𝓇𝑜𝒻𝒾𝓁𝑒 ! ^^ <br>
+<br>
   <p align="center">
-  <img src="image.png"/>
+  <img src="The Kid At The Back - Fantasia-Kittcat _ Sol.jpg" width="600"/>
 </p>
 </h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Angeliesz&color=yellow&label=Suns)
 
-<img align="right" width="200" src="image.png"/>
+<img align="right" width="400" src="Sol Widget ♡´･ᴗ･`♡.png"/>
 
 <h3 align="center">
 <p>
