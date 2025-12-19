@@ -6,9 +6,9 @@
 </p>
 </h1>
 
-![Profile views]   (https://komarev.com/ghpvc/?username=Angeliesz&color=yellow&label=Suns) (Uxinote: put this link between parentheses and change the username for urs)
 
-<img align="right" width="200" src="Sol Widget ♡´･ᴗ･`♡"/>
+<img align="right" width="200" src="<img width="1080" height="874" alt="Sol Widget ♡´･ᴗ･`♡" src="https://github.com/user-attachments/assets/092d7a0a-18cf-4f07-b24f-0132e75752bc" />
+"/>
 
 <h3 align="center">
 <p>
