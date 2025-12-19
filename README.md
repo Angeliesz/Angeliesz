@@ -1,15 +1,14 @@
+
 <h1 align="center">
   𝐻𝑖, 𝒽𝑒𝓁𝓁𝑜𝑜!! 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓅𝓇𝑜𝒻𝒾𝓁𝑒 ! ^^
 
   <p align="center">
-  <img src="![tkatb sol](https://github.com/user-attachments/assets/735e9d93-5fc0-473d-86d5-df8f792e2030)
-"/>
+  <img src=""/>
 </p>
 </h1>
 
-![Profile views] https://komarev.com/ghpvc/?username=Angeliesz&color=yellow&label=Suns (Uxinote: put this link between parentheses and change the username for urs)
-
-<img align="right" width="200" src="<img width="1080" height="874" alt="Sol Widget ♡´･ᴗ･`♡" src="https://github.com/user-attachments/assets/f8c7bf25-d78b-4101-a727-005cc2d7e276" />
+![Profile views] https://komarev.com/ghpvc/?username=Angeliesz&color=yellow&label=Suns
+<img align="right" width="200" src="![Sol Widget ♡´･ᴗ･`♡](https://github.com/user-attachments/assets/f3d55d58-4f30-4674-b9cd-1ca033b12f37)
 "/>
 
 <h3 align="center">
