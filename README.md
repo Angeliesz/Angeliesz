@@ -2,13 +2,13 @@
   𝐻𝑖, 𝒽𝑒𝓁𝓁𝑜𝑜!! 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓅𝓇𝑜𝒻𝒾𝓁𝑒 ! ^^
 
   <p align="center">
-  <img src="The Kid At The Back - Fantasia-Kittcat _ Sol"/>
+  <img src="image.png"/>
 </p>
 </h1>
 
+![Profile views](https://komarev.com/ghpvc/?username=Angeliesz&color=yellow&label=Suns)
 
-<img align="right" width="200" src="<img width="1080" height="874" alt="Sol Widget ♡´･ᴗ･`♡" src="https://github.com/user-attachments/assets/092d7a0a-18cf-4f07-b24f-0132e75752bc" />
-"/>
+<img align="right" width="200" src="image.png"/>
 
 <h3 align="center">
 <p>
@@ -24,4 +24,4 @@
 𝒹𝓃𝒾;; 𝓉𝒷𝒽 𝒿𝓈 𝒹𝑜𝓃’𝓉 𝒷𝑒 𝒶 𝓌𝑒𝒾𝓇𝒹𝑜<br>
 𝑜𝓀 𝒷𝓎𝑒.
       </p>
-</h3> 
+</h3>
