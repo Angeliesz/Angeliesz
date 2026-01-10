@@ -2,7 +2,7 @@
  Hi, helloo!! Welcome to my profile ! ^^ <br>
 <br>
   <p align="center">
-  <img src="https://media.discordapp.net/attachments/1448925756439793684/1459479614886903862/soft_pink_twitter_header.jpg?ex=69636dd0&is=69621c50&hm=ae53ddbcfa1502fe9f16286a637073a334e38b4ed7013256e9924eadbbdcdcfa&=&format=webp&width=920&height=308" width="800" height="300"/>
+  <img src="https://media.discordapp.net/attachments/1448925756439793684/1459479614886903862/soft_pink_twitter_header.jpg?ex=69636dd0&is=69621c50&hm=ae53ddbcfa1502fe9f16286a637073a334e38b4ed7013256e9924eadbbdcdcfa&=&format=webp&width=920&height=308" width="600" height="300"/>
 </p>
 </h1>
 
