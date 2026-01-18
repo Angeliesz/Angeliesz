@@ -6,7 +6,7 @@
 </p>
 </h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=Angeliesz&color=yellow&label=Suns)
+![Profile views](https://komarev.com/ghpvc/?username=Angeliesz&color=ff69b4&label=blossoms)
 
 <img align="right" width="400" src="https://media.discordapp.net/attachments/1448925756439793684/1459478589778034700/-removebg-preview.png?ex=69636cdb&is=69621b5b&hm=2e6e8c235639049c977e6b93efe5fd80ec55f7e99315bf1d6aaf10c83d1dd972&=&format=webp&quality=lossless&width=625&height=625"/>
 
@@ -19,7 +19,7 @@ Belgian / Russian<br>
 Flemish<br>
 INFP 4w5<br><br>
 I love love visual novels, music,<br>
-games, sleep, series, movies,<br>
+games, sleep, series, movies, anime, reading<br>
 art, KDRAMASS, etc ..<br><br>
 dni;; tbh js don't be a weirdo<br>
 ok bye. </sub> <br><br>
@@ -27,7 +27,7 @@ ok bye. </sub> <br><br>
 </h3>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316c3fvrikhjl4dzrmtrycpytlba&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=286926">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316c3fvrikhjl4dzrmtrycpytlba&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316c3fvrikhjl4dzrmtrycpytlba&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff9e9e&interchange=false&profanity=false&bar_color=f59ed1&bar_color_cover=true&mode=light">
   </a>
 </p>
