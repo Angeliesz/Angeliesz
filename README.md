@@ -2,7 +2,8 @@
  Hi, helloo!! Welcome to my profile ! ^^ <br>
 <br>
   <p align="center">
-  <img src="download (53).jpg" width="600" height="450"/>
+  <img src="— ☆ 𝐂𝐇𝐀𝐍.jpg"
+ width="600" height="450"/>
 </p>
 </h1>
 
