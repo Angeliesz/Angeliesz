@@ -2,7 +2,7 @@
  Hi, helloo!! Welcome to my profile ! ^^ <br>
 <br>
   <p align="center">
-  <img src="— ☆ 𝐂𝐇𝐀𝐍.jpg"
+  <img src="Hyunjin (2).jpg"
  width="600" height="450"/>
 </p>
 </h1>
@@ -18,7 +18,7 @@ Belgian / Russian<br>
 Flemish<br>
 INFP 4w5<br><br>
 I love love visual novels, music,<br>
-games, sleep, series, movies, anime, reading<br>
+games, sleep, series, movies, anime, Kpop, reading<br>
 art, KDRAMASS, etc ..<br><br>
 dni;; tbh js don't be a weirdo<br>
 ok bye. </sub> <br><br>
