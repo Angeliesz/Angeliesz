@@ -30,3 +30,11 @@ ok bye. </sub> <br><br>
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316c3fvrikhjl4dzrmtrycpytlba&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff9e9e&interchange=false&profanity=false&bar_color=f59ed1&bar_color_cover=true&mode=light">
   </a>
 </p>
+<br>
+  <p align="center">
+  <img src="Schermafbeelding 2026-02-15 121350.png"
+  width="300" height="300"/>
+<br>
+uss !!! (˶˃ ᵕ ˂˶) 
+      </p>
+</h3>
