@@ -35,6 +35,6 @@ ok bye. </sub> <br><br>
   <img src="Schermafbeelding 2026-02-15 121350.png"
   width="300" height="300"/>
 <br>
-uss !!! (˶˃ ᵕ ˂˶) 
+uss !!! (˶˃ ᵕ ˂˶) <i><a href="https://github.com/Alicesgarden"> @Alicesgarden </a></i>  <i><a href="https://github.com/flowerhusbands"> @flowerhusbands</a></i>
       </p>
 </h3>
