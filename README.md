@@ -2,12 +2,12 @@
  Hi, helloo!! Welcome to my profile ! ^^ <br>
 <br>
   <p align="center">
-  <img src="Hyunjin (2).jpg"
+  <img src="follow    me _     ★.jpg"
  width="600" height="450"/>
 </p>
 </h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=Angeliesz&color=red&label=(..◜ᴗ◝..))
+![Profile views](https://komarev.com/ghpvc/?username=Angeliesz&color=lightgrey&label=(..◜ᴗ◝..))
 
 <h3 align="center">
 <p>
