@@ -2,7 +2,7 @@
  Hi, helloo!! Welcome to my profile ! ^^ <br>
 <br>
   <p align="center">
-  <img src="follow    me _     ★.jpg"
+  <img src="download - 2026-03-11T182604.849.jpg"
  width="600" height="450"/>
 </p>
 </h1>
