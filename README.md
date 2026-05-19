@@ -1,5 +1,5 @@
-<h1 align="center">
- Hi, helloo!! Welcome to my profile ! ^^ <br>
+<h1 
+  <br>
 <br>
   <p align="center">
   <img src="Draco - Harry Potter and the Prisoner Of Azkaban (2004).jpg"
@@ -7,23 +7,28 @@
 </p>
 </h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=Angeliesz&color=lightgrey&label=(..◜ᴗ◝..))
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Angeliesz&color=green&label=(..◜ᴗ◝..)" />
+</p>
 <h3 align="center">
 <p>
-        Angelina / Angie<br>
-<br>
-<sub> 14 yrs<br>
-Belgian / Russian<br>
-Flemish<br>
-INFP 4w5<br><br>
-I love love visual novels, music,<br>
-games, sleep, series, movies, anime, Kpop, reading<br>
-art, KDRAMASS, etc ..<br><br>
-dni;; tbh js don't be a weirdo<br>
-ok bye. </sub> <br><br>
+        
+<p align="left">
+  <i> <br> $\color{#6DAD51}{\textsf{"Thinking of trying to catch Black single-handed, Potter?"}}$</i>
+</p>
+
+<p align="center">
+  <img src="download (5).gif" width="350">
+</p>
+
+<p align="right">
+  <i><br> $\color{#AB0707}{\textsf{"Yeah, that's right."}}$</i>
+ <i><br> $\color{#BD9404}{\textsf{- Prisoner Of Azkaban}}$</i>
+</p>
+</div>
+<sub> <br>
+ </sub> <br><br>
       </p>
-</h3>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316c3fvrikhjl4dzrmtrycpytlba&redirect=true">
@@ -31,10 +36,6 @@ ok bye. </sub> <br><br>
   </a>
 </p>
 <br>
-  <p align="center">
-  <img src="Schermafbeelding 2026-02-15 121350.png"
-  width="300" height="300"/>
+  
 <br>
-uss !!! (˶˃ ᵕ ˂˶) <i><a href="https://github.com/Alicesgarden"> @Alicesgarden </a></i>  <i><a href="https://github.com/flowerhusbands"> @flowerhusbands</a></i>
-      </p>
 </h3>
