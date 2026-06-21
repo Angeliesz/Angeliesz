@@ -2,28 +2,28 @@
 <br>
 <br>
 <p align="center">
-<img src="download (10).jpg"
+<img src="bois.jpg"
 width="600" height="450"/>
 </p>
 </h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Angeliesz&color=lightgrey&label=❾¾" />
+<img src="https://komarev.com/ghpvc/?username=Angeliesz&color=lightgrey&label=🏝" />
 </p>
 <h3 align="center">
 <p>
 
 <p align="left">
-<i> <br> $\color{#50574F}{\textsf{"I have to kill you,"}}$</i>
+<i> <br> $\color{#50574F}{\textsf{"We're strong—we hunt!"}}$</i>
+  <i> <br> $\color{#50574F}{\textsf{- Jack Merridew}}$</i>
 </p>
 
 <p align="center">
-<img src="download.gif" width="350">
+<img src="gif.gif" width="450">
 </p>
 
 <p align="right">
-<i><br> $\color{#50574F}{\textsf{"..or he's gonna kill me."}}$</i>
-<i><br> $\color{#5B7558}{\textsf{- The halfblood prince}}$</i>
+<i><br> $\color{#50574F}{\textsf{Matching with Zee !! (˶>⩊<˶) }}$</i>
 </p>
 </div>
 <sub> <br>
