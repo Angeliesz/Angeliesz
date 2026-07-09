@@ -2,28 +2,27 @@
 <br>
 <br>
 <p align="center">
-<img src="bois.jpg"
+<img src="luna banner.webp"
 width="600" height="450"/>
 </p>
 </h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Angeliesz&color=lightgrey&label=🏝" />
+<img src="https://komarev.com/ghpvc/?username=Angeliesz&color=blue&label=❾¾" />
 </p>
 <h3 align="center">
 <p>
 
 <p align="left">
-<i> <br> $\color{#50574F}{\textsf{"We're strong—we hunt!"}}$</i>
-  <i> <br> $\color{#50574F}{\textsf{- Jack Merridew}}$</i>
+<i> <br> $\color{#FF59AE}{\textsf{"She walked in moon dust and stars were sprinkled in her hair,"}}$</i>
 </p>
 
 <p align="center">
-<img src="gif.gif" width="450">
+<img src="luna and hari.png" width="450">
 </p>
 
 <p align="right">
-<i><br> $\color{#50574F}{\textsf{Matching with Zee !! (˶>⩊<˶) }}$</i>
+<i><br> $\color{#4DF0E8}{\textsf{- Luna Lovegood ࣪ ִֶָ☾.࣪࿐ }}$</i>
 </p>
 </div>
 <sub> <br>
